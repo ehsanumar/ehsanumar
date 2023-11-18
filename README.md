@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Laravel,RestfulApi,VueJS,**
 
-- 💪I’m currently working on **Automated system for create research project document**
+- 💪I’m currently working on **Automated system for create research project document To Soran university**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **JS,PHP,Laravel,API,C#**
+- 💬 Ask me about **JS,PHP,Laravel,API**
 
 - 📫 How to reach me **ehsanumar84@gmail.com**
 
