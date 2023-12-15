@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer passionate about creating seamless, user-friendly</h3>
 
 - 🔭 I’m working on **Freelancer**
-- 😎 this is my **portfolio** <a href="https://ehsan-umar.netlify.app" target="blank">
+- 😎 this is my [portfolio]↪ **(https://ehsan-umar.netlify.app)** 
 
 - 🌱 I’m currently learning **Laravel,RestfulApi,VueJS,**
 
